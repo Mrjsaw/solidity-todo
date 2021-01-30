@@ -5,6 +5,6 @@ My first project on the Ethereum Blockchain, using solidity to develop a smart c
 
 # Prerequisites
 
-Truffle v5.0.02
-Solidity v0.5.0
-Node v14.15.1
+* Truffle v5.0.02
+* Solidity v0.5.0
+* Node v14.15.1
